@@ -20,18 +20,18 @@
 
 **Clean Code**에 관심 있는 개발자입니다. 
 
-한 사람이 작성한 것 같은, **읽기 좋은 코드**를 지향하며, 협업한 개발자의**코드 참조**를 통해 원활한 협업과 높은 품질의 코드를 만들기 위해 노력하고 있습니다.
+한 사람이 작성한 것 같은, **읽기 좋은 코드**를 지향하며, 협업한 개발자의 **코드 참조**를 통해 원활한 협업과 높은 품질의 코드를 만들기 위해 노력하고 있습니다.
 
 현재 어니언팜 기업의 **풀스택 개발자**로 일하고 있습니다.
 
 
 ## Tech Stack
 
-<img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=white"/><img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=white"/><img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=black"/><img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/><img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/>
 
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/><img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="Nextjs" src ="https://img.shields.io/badge/Nextjs-000?&style=for-the-badge"/>
 
-<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgrSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgrSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/>
 
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
 
