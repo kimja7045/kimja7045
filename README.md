@@ -33,13 +33,14 @@
 
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgrSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/>
 
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
+<img alt="Git" src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img alt="Figma" src ="https://img.shields.io/badge/Figma-EB4B1D?style=for-the-badge&logo=figma&logoColor=white"/><img alt="Sketch" src ="https://img.shields.io/badge/Sketch-FF694D?style=for-the-badge&logo=sketch&logoColor=white"/><img alt="Zeplin" src ="https://img.shields.io/badge/Zeplin-F69833?style=for-the-badge&logo=zeplin&logoColor=white"/>
 
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
 
 #### - 🔭 I’m currently working on `onionFarm`
 #### - 🌱 I’m currently learning `Nextjs`
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimja7045&count_private=true&show_icons=true&theme=dracula)](https://github.com/kimja7045/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimja7045&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
