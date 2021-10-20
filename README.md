@@ -37,7 +37,7 @@
 
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
 
-#### - 🔭 I’m currently working on `onionFarm`
+<!--#### - 🔭 I’m currently working on `onionFarm` -->
 #### - 🌱 I’m currently learning `Nextjs`
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimja7045&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
