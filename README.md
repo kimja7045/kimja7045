@@ -34,9 +34,13 @@
 <img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=black"/><img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/>
 <img alt="Nextjs" src ="https://img.shields.io/badge/Nextjs-000?&style=for-the-badge"/>
 
-<img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/><img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/>
-
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/><img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="ReduxSaga" src ="https://img.shields.io/badge/Redux_Saga-86D46B?&style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="ReduxToolkit" src ="https://img.shields.io/badge/Redux_Toolkit-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
+
+<img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/><img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/>
 
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgrSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/>
 
