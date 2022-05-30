@@ -19,11 +19,11 @@
 
 ---
 
-**Clean Code**에 관심 있는 개발자입니다. 한 사람이 작성한 것 같은, **읽기 좋은 코드**를 지향하며,
+**클린 코드**에 관심 있는 개발자입니다. 한 사람이 작성한 것 같은, **읽기 좋은 코드**를 지향하며,
 
 협업한 개발자의 코드를 참조하며 원활한 협업과 높은 품질의 코드를 만드는 걸 좋아하고
 
-같이 협업하고 싶은, 좋은 개발자가 되고싶은 개발자입니다.
+같이 협업하며 성장하고 싶은, 좋은 개발자가 되고싶은 개발자입니다.
 
 <!-- 만들기 위해 노력하고 있습니다. -->
 
@@ -39,9 +39,9 @@
 <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/><img alt="ReduxToolkit" src ="https://img.shields.io/badge/Redux_Toolkit-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="ReduxSaga" src ="https://img.shields.io/badge/Redux_Saga-86D46B?&style=for-the-badge&logo=redux&logoColor=white"/>
 
-<img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/>
-
-<!-- <img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/> -->
+<img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/>
 
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgrSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/>
 
@@ -51,7 +51,7 @@
 
 <!--#### - 🔭 I’m currently working on `onionFarm` -->
 
-#### - 🌱 I’m currently learning `Nextjs, Spring`
+#### - 🌱 I’m currently learning `Nextjs, Nestjs`
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimja7045&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
