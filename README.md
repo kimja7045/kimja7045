@@ -49,7 +49,7 @@
 
 <!--#### - 🔭 I’m currently working on `onionFarm` -->
 
-#### - 🌱 I’m currently learning `Nextjs, Nestjs`
+#### - 🌱 I’m currently learning `Nestjs`
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimja7045&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
