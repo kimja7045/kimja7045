@@ -25,9 +25,7 @@
 
 같이 협업하며 성장하고 싶은, 좋은 개발자가 되고싶은 개발자입니다.
 
-현재 **풀스택 개발자**로 일하고 있습니다 :)
-
-#### - 🔭 I’m currently working on `HighDev`
+현재 하이데브에서 **풀스택 개발자**로 일하고 있습니다 :)
 
 #### - 🌱 I’m currently learning `React Native Skia` `NestJs`
 
