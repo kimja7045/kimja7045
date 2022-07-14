@@ -27,7 +27,7 @@
 
 현재 하이데브에서 **풀스택 개발자**로 일하고 있습니다 :)
 
-#### - 🌱 I’m currently learning `React Native Skia` `NestJs`
+#### - 🌱 I’m currently learning `NestJs`
 
 ---
 
