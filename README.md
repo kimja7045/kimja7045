@@ -34,7 +34,8 @@
 ## Tech Stack
 
 <img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=black"/><img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/>
-<img alt="NextJs" src ="https://img.shields.io/badge/Nextjs-000?&style=for-the-badge"/>
+<!-- <img alt="NextJs" src ="https://img.shields.io/badge/Nextjs-000?&style=for-the-badge"/>) -->
+
 
 <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/><img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
