@@ -27,9 +27,9 @@
 
 같이 협업하며 성장하고 싶은, 좋은 개발자가 되고싶은 개발자입니다.
 
-현재 하이데브에서 **풀스택 개발자**로 일하고 있습니다 :)
+현재 하이데브에서 개발팀장으로 프로젝트를 리드하며 **풀스택 개발자**로 일하고 있습니다 :)
 
-#### - 🌱 I’m currently learning `NestJS & MSA`
+#### - 🌱 I’m currently learning `MSA`
 
 ---
 
@@ -45,16 +45,29 @@
 <img alt="ReduxSaga" src ="https://img.shields.io/badge/Redux_Saga-86D46B?&style=for-the-badge&logo=redux&logoColor=white"/>
 
 <img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/>
+
+<!-- <img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/> -->
 
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/>
+
+---
 
 ## Communication
 
 <img alt="Figma" src ="https://img.shields.io/badge/Figma-EB4B1D?style=for-the-badge&logo=figma&logoColor=white"/><img alt="Sketch" src ="https://img.shields.io/badge/Sketch-FF694D?style=for-the-badge&logo=sketch&logoColor=white"/><img alt="Zeplin" src ="https://img.shields.io/badge/Zeplin-F69833?style=for-the-badge&logo=zeplin&logoColor=white"/>
 
-<img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
-<img alt="Slack" src ="https://img.shields.io/badge/Jira-247FF4?&style=for-the-badge&logo=jira&logoColor=white"/>
+<img alt="Jira" src ="https://img.shields.io/badge/Jira-247FF4?&style=for-the-badge&logo=jira&logoColor=white"/>
+<img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/>
+
+---
+
+## Etc
+
+- 위치기반 데이터 필터
+- Push Notification
+- Code Push
+- Chat(webSocket, socket.io, sendbird, talkplus)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimja7045&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
