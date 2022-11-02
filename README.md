@@ -21,9 +21,7 @@
 
 안녕하세요! 저는 **개발, 소통**을 좋아하고 **호기심**이 많은 개발자입니다 :)
 
-가독성이 좋은 **클린코드**를 중요시하며,
-
-협업한 개발자의 코드를 참조하며 원활한 협업과 읽기좋은 코드를 만드는 걸 좋아하고
+가독성 좋은 **클린코드**와 협업하는 팀원의 코드를 참조하며 원활한 협업과 읽기좋은 코드를 만드는 걸 좋아하고
 
 같이 협업하며 성장하고 싶은, 좋은 개발자가 되고싶은 개발자입니다.
 
@@ -56,9 +54,7 @@
 
 <img alt="Figma" src ="https://img.shields.io/badge/Figma-EB4B1D?style=for-the-badge&logo=figma&logoColor=white"/><img alt="Sketch" src ="https://img.shields.io/badge/Sketch-FF694D?style=for-the-badge&logo=sketch&logoColor=white"/><img alt="Zeplin" src ="https://img.shields.io/badge/Zeplin-F69833?style=for-the-badge&logo=zeplin&logoColor=white"/>
 
-<img alt="Jira" src ="https://img.shields.io/badge/Jira-247FF4?&style=for-the-badge&logo=jira&logoColor=white"/>
-<img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
-<img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/>
+<img alt="Jira" src ="https://img.shields.io/badge/Jira-247FF4?&style=for-the-badge&logo=jira&logoColor=white"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/><img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/>
 
 ---
 
