@@ -27,7 +27,7 @@
 
 현재 하이데브에서 팀장으로 프로젝트를 리드하며 **풀스택 개발자**로 일하고 있습니다 :)
 
-#### - 🌱 I’m currently learning `NextJs`
+#### - 🌱 I’m currently learning `web performance optimization`
 
 #### - ⚡ Fun fact: `Coding Test practice`
 
@@ -44,9 +44,11 @@
 <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/><img alt="ReduxToolkit" src ="https://img.shields.io/badge/Redux_Toolkit-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="ReduxSaga" src ="https://img.shields.io/badge/Redux_Saga-86D46B?&style=for-the-badge&logo=redux&logoColor=white"/>
 
-<img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/><img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/>
+<img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/>
 
-<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/>
+<!-- <img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/> -->
+
+<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000?&style=for-the-badge&logo=vercel&logoColor=white"/>
 
 ---
 
@@ -62,6 +64,7 @@
 
 - Code Push
 - OAuth
+- 결제(아임포트, 페이플)
 - 위치기반 데이터 필터
 - Chat(webSocket, socket.io, sendbird, talkplus)
 
