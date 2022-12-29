@@ -33,13 +33,13 @@
 
 ---
 
+<!-- <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/><img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/> -->
+
 ## Tech Stack
 
 <img alt="React" src ="https://img.shields.io/badge/React-61dafb?&style=for-the-badge&logo=react&logoColor=black"/><img alt="ReactNative" src ="https://img.shields.io/badge/React_Native-61dafb?&style=for-the-badge&logo=react&logoColor=black"/>
 <img alt="NextJs" src ="https://img.shields.io/badge/Nextjs-000?&style=for-the-badge"/>
 <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<!-- <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/><img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/> -->
 
 <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/><img alt="ReduxToolkit" src ="https://img.shields.io/badge/Redux_Toolkit-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="ReduxSaga" src ="https://img.shields.io/badge/Redux_Saga-86D46B?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -48,7 +48,11 @@
 
 <!-- <img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/> -->
 
-<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000?&style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+## DevOps
+
+<img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000?&style=for-the-badge&logo=vercel&logoColor=white"/><img alt="GithubActions" src ="https://img.shields.io/badge/github_actions-000?&style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
@@ -62,8 +66,9 @@
 
 ## Etc
 
-- web perfomance optimization at Lighthouse
+- web perfomance optimization & refactoring at Lighthouse
 - Code Push
+
 - OAuth
 - 결제(아임포트, 페이플)
 - 위치기반 데이터 필터
