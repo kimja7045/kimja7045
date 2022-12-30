@@ -64,6 +64,10 @@
 
 ---
 
+## Code Style
+
+- flake8, black, eslint, prettier
+
 ## Etc
 
 - web perfomance optimization & refactoring at Lighthouse
