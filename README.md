@@ -29,7 +29,7 @@
 
 #### - 🌱 I’m currently learning `web performance optimization`
 
-#### - ⚡ Fun fact: `Coding Test practice`
+<!-- #### - ⚡ Fun fact: `Coding Test practice` -->
 
 ---
 
