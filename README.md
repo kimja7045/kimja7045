@@ -27,7 +27,7 @@
 
 현재 팀장으로 프로젝트를 리드하며 **풀스택 개발자**로 일하고 있습니다 :)
 
-#### - 🌱 I’m currently learning `web performance optimization`
+#### - 🌱 I’m currently learning `mvvm design pattern`
 
 <!-- #### - ⚡ Fun fact: `Coding Test practice` -->
 
@@ -66,7 +66,7 @@
 
 ## Code Style
 
-- flake8, black, eslint, prettier
+- eslint, prettier, flake8, black
 
 ## Etc
 
