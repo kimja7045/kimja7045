@@ -27,7 +27,7 @@
 
 현재 팀장으로 프로젝트를 리드하며 **풀스택 개발자**로 일하고 있습니다 :)
 
-#### - 🌱 I’m currently learning `mvvm design pattern`
+#### - 🌱 I’m currently learning `coding test & mvvm design pattern for clean code`
 
 <!-- #### - ⚡ Fun fact: `Coding Test practice` -->
 
