@@ -27,7 +27,7 @@
 
 팀장으로 프로젝트를 리드하며 웹,앱 서비스를 풀스택 개발하고, figma, jira, slack 등의 툴로 다양한 직군의 팀원들과 협업하였습니다.
 
-#### - 🌱 I’m currently learning `coding test & mvvm design pattern for clean code`
+#### - 🌱 I’m currently learning `javascript for clean code`
 
 <!-- #### - ⚡ Fun fact: `Coding Test practice` -->
 
