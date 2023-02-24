@@ -24,11 +24,9 @@
 
 팀원의 코드를 참조하며 원활한 협업과 읽기좋은 코드를 만드는 걸 좋아하고
 
-같이 협업하며 성장하고 싶은, 그런 좋은 개발자가 되고싶습니다.
+같이 협업하며 성장하고 싶은, 그런 좋은 개발자가 되고싶습니다 :)
 
-현재 팀장으로 프로젝트를 리드하며 **풀스택 개발자**로 일하고 있습니다 :)
-
-#### - 🌱 I’m currently learning `coding test & mvvm design pattern for clean code`
+#### - 🌱 I’m currently learning `javascript for clean code`
 
 <!-- #### - ⚡ Fun fact: `Coding Test practice` -->
 
