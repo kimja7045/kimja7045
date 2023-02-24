@@ -12,9 +12,8 @@
         "Luke",
         "루크"
     ]
-} -->
-
-```
+}
+``` -->
 
 ##### My Blog: https://velog.io/@kimja01
 
@@ -96,4 +95,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+
 ```
