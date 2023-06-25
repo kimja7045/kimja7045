@@ -25,7 +25,7 @@
 
 같이 협업하며 성장하고 싶은, 좋은 개발자가 되고싶습니다 :)
 
-#### - 🌱 I’m currently learning `TDD`
+#### - 🌱 I’m currently learning `Storybook`
 
 ---
 
