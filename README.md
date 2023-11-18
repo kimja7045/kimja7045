@@ -64,7 +64,7 @@
 
 ## Etc
 
-- web perfomance optimization & refactoring at Lighthouse
+- web perfomance optimization & refactoring
 - Code Push
 
 - OAuth
