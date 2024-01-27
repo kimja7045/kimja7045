@@ -2,34 +2,19 @@
 
 ### 🧑‍💻 JaeHoon Kim / Luke
 
-<!-- ```js
-{
-    "name": [
-        "JaeHoon Kim",
-        "김재훈"
-    ],
-    "nickName": [
-        "Luke",
-        "루크"
-    ]
-}
-``` -->
-
 ##### My Blog: https://velog.io/@kimja01
 
 ---
 
-**최적화**에 관심있으며 코드리뷰와 질문을 좋아하고,
+**블록체인(ERC20, ERC721)**에 관심있으며 코드리뷰와 질문을 좋아하고,
 
-한 사람이 작성한 것 같은, 읽기 좋은 코드를 지향합니다.
+수정하기 용이하고 읽기좋은 코드를 지향합니다.
 
 같이 협업하며 성장하고 싶은, 그런 좋은 개발자가 되고싶습니다 :)
 
-#### - 🌱 I’m currently learning `헤드 퍼스트 디자인 패턴`
+#### - 🌱 I’m currently learning `단위 테스트 : 생산성과 품질을 위한 단위 테스트 원칙과 패턴`
 
 ---
-
-<!-- <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-EFD919?&style=for-the-badge&logo=javascript&logoColor=black"/><img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/> -->
 
 ## Tech Stack
 
@@ -37,8 +22,8 @@
 <img alt="NextJs" src ="https://img.shields.io/badge/Nextjs-000?&style=for-the-badge"/>
 <img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/><img alt="ReduxToolkit" src ="https://img.shields.io/badge/Redux_Toolkit-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="ReduxSaga" src ="https://img.shields.io/badge/Redux_Saga-86D46B?&style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="Jotai" src ="https://img.shields.io/badge/Jotai-000?&style=for-the-badge"/><img alt="Zustand" src ="https://img.shields.io/badge/Zustand-205EC0?&style=for-the-badge"/><img alt="Recoil" src ="https://img.shields.io/badge/Recoil-205EC0?&style=for-the-badge&logo=recoil&logoColor=white"/>
+<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/><img alt="ReduxToolkit" src ="https://img.shields.io/badge/Redux_Toolkit-764ABC?&style=for-the-badge&logo=redux&logoColor=white"/><img alt="ReduxSaga" src ="https://img.shields.io/badge/Redux_Saga-86D46B?&style=for-the-badge&logo=redux&logoColor=white"/>
 
 <img alt="Django" src ="https://img.shields.io/badge/Django-0C3C26?&style=for-the-badge&logo=django&logoColor=white"/><img alt="Express" src ="https://img.shields.io/badge/Express-aeaeae?&style=for-the-badge&logo=express&logoColor=white"/><img alt="NestJS" src ="https://img.shields.io/badge/nest-f2f2f2?&style=for-the-badge&logo=nestjs&logoColor=E0244d"/>
 
@@ -46,7 +31,7 @@
 
 ## DevOps
 
-<img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000?&style=for-the-badge&logo=vercel&logoColor=white"/><img alt="GithubActions" src ="https://img.shields.io/badge/github_actions-000?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Aws" src ="https://img.shields.io/badge/Aws-f0931e?&style=for-the-badge"/><img alt="GithubActions" src ="https://img.shields.io/badge/github_actions-000?&style=for-the-badge&logo=github&logoColor=white"/><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000?&style=for-the-badge&logo=vercel&logoColor=white"/>
 
 ---
 
