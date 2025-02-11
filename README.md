@@ -35,7 +35,7 @@
 
 <img alt="Figma" src ="https://img.shields.io/badge/Figma-EB4B1D?style=for-the-badge&logo=figma&logoColor=white"/><img alt="Sketch" src ="https://img.shields.io/badge/Sketch-FF694D?style=for-the-badge&logo=sketch&logoColor=white"/><img alt="Zeplin" src ="https://img.shields.io/badge/Zeplin-F69833?style=for-the-badge&logo=zeplin&logoColor=white"/>
 
-<img alt="Jira" src ="https://img.shields.io/badge/Jira-247FF4?&style=for-the-badge&logo=jira&logoColor=white"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/><img alt="Notion" src ="https://img.shields.io/badge/Notion-white?&style=for-the-badge&logo=notion&logoColor=black"/>
+<img alt="Jira" src ="https://img.shields.io/badge/Jira-247FF4?&style=for-the-badge&logo=jira&logoColor=white"/><img alt="Slack" src ="https://img.shields.io/badge/Slack-4a154b?&style=for-the-badge&logo=slack&logoColor=white"/>
 
 ---
 
