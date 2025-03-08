@@ -44,17 +44,14 @@
 - eslint, prettier, flake8, black
 
 ## Etc
-
-- web perfomance optimization & refactoring
 - Code Push
-
-- OAuth
-- 결제(아임포트, 페이플)
-- 위치기반 데이터 필터
-- Chat(webSocket, socket.io, sendbird, talkplus)
-
-- SMS Authentication(naver, cool sms)
 - Push Notification
+- Chat(webSocket, socket.io, sendbird, talkplus)
+- 결제(아임포트, 페이플)
+- OAuth
+- 위치기반 데이터 필터
+- SMS Authentication(naver, cool sms)
+
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimja7045&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
