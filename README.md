@@ -8,7 +8,7 @@
 
 문제 해결에 도움되는 기술을 배우고 공유하며, 의견을 주고받는 것을 좋아합니다.
 
-#### - 🌱 I’m currently learning `모던 웹을 위한 마이크로 프런트엔드`
+#### - 🌱 I’m currently learning `FSD 아키텍처`
 
 ---
 
@@ -44,14 +44,13 @@
 - eslint, prettier, flake8, black
 
 ## Etc
-- Code Push
+- Code Push & Fastlane
 - Push Notification
 - Chat(webSocket, socket.io, sendbird, talkplus)
 - 결제(아임포트, 페이플)
 - OAuth
 - 위치기반 데이터 필터
 - SMS Authentication(naver, cool sms)
-
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimja7045&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
