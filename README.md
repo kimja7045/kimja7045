@@ -8,7 +8,7 @@
 
 문제 해결에 도움되는 기술을 적용하고 공유하며, 의견을 주고받는 것을 좋아합니다.
 
-#### - 🌱 I’m currently learning `FSD Architecture`
+#### - 🌱 I’m currently learning `react-native-skia`
 
 ---
 
