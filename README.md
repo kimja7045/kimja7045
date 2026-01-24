@@ -8,7 +8,7 @@
 
 기술을 적용하고 공유하며 논의하는걸 좋아합니다.
 
-#### - 🌱 I’m currently learning & apply `Backend`
+#### - 🌱 I’m currently learning & apply `Agent Orchestration`
 
 ---
 
