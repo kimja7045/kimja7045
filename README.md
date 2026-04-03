@@ -6,9 +6,9 @@
 
 ---
 
-기술을 적용하고 공유하며 논의하는걸 좋아합니다.
+비즈니스에 필요한 기술을 적용하고 논의하는걸 좋아합니다.
 
-#### - 🌱 I’m currently learning & apply `Agent Orchestration`
+#### - 🌱 I’m currently learning & apply `Commerce OS`
 
 ---
 
